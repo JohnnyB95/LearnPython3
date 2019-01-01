@@ -1,0 +1,8 @@
+ex22 - Checkpoint Review.txt
+
+What have you learned so far?
+
+- print
+- print formatting
+- importing modules
+- functions

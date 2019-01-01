@@ -1,3 +1,5 @@
+# Open and read files using functions
+
 from sys import argv
 
 script, input_file = argv
